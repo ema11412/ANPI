@@ -17,5 +17,5 @@ _Las intrucciones necesarias para cada caso de implementacion se encuentran en s
 
 * **Emanuel Esquivel** - [ema11412](https://github.com/ema11412)
 * **Luis Lopez Salas** -      [lulopez27](https://github.com/lulopez27)
-* **Kevin Cordero** - [Skryfall](https://github.com/Skryfall)
+* **Kevin Cordero** - [kevinscorzu](https://github.com/kevinscorzu)
 * **Juan Pablo Alvarado** - [juan230500](https://github.com/juan230500)
